@@ -41,11 +41,10 @@ Transformar conhecimento em projetos que gerem impacto e me tornem uma profissio
 ## 📫 Contato
 
 - GitHub: github.com/oliveiranaclara28
-
 ---
 
 ## 🐍 Minhas Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oliveiranaclara28/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/oliveiranaclara28/oliveiranaclara28/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </p>
