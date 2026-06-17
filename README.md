@@ -6,7 +6,7 @@
 
 <p align="center">
 🎓 Estudante de Sistemas de Informação <br>
-💻 Aprendendo Python e C++ <br>
+💻 Python e C++ <br>
 🚀 Construindo projetos e evoluindo um código por vez
 </p>
 
