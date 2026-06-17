@@ -25,16 +25,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
-</p>
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oliveiranaclara28&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiranaclara28&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,git,github,vscode" />
 </p>
 
 ---
