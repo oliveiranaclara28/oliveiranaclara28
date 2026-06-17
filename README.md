@@ -44,8 +44,6 @@ Transformar conhecimento em projetos que gerem impacto e me tornem uma profissio
 
 ---
 
----
-
 ## 🐍 Minhas Contribuições
 
 <p align="center">
